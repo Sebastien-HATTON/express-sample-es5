@@ -1,0 +1,26 @@
+{
+  "name": "express-sample-es5",
+  "version": "1.0.0",
+  "description": "This is a demo application used to show the core features of express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbragdon/express-sample-es5.git"
+  },
+  "keywords": [
+    "express",
+    "es5"
+  ],
+  "author": "Nick Bragdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbragdon/express-sample-es5/issues"
+  },
+  "homepage": "https://github.com/nbragdon/express-sample-es5#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
